@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Lakshay Kapoor
+  # 👋 Hello, I'm Lakshay Kapoor
 
 ## Full Stack Developer | Master's in Computer Application Student
 
@@ -6,10 +6,10 @@ I'm a passionate full stack developer with 2+ years of experience, currently pur
 
 ## 💼 Professional Experience
 
-- **Full Stack Developer** at [Company Name] _(Current)_
+- **Full Stack Developer** at [Netweb Technologies] _(Current)_
   - Building and maintaining web and mobile applications using React, Next.js, and React Native
   - Implementing backend solutions with Node.js and Express
-  - Working with databases and API services including Supabase and GraphQL
+  - Working with databases and API services, including Supabase and GraphQL
 
 ## 🛠️ Tech Stack
 
@@ -33,29 +33,8 @@ I'm a passionate full stack developer with 2+ years of experience, currently pur
 
 ## 🎓 Education
 
-- **Master's in Computer Application** - [University Name] _(In Progress)_
-- **Bachelor's Degree** - [University Name] _(Completed)_
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🔥 Recent Projects
-
-### Project 1
-- Description: Brief description of the project
-- Tech Stack: React.js, Node.js, Supabase
-- [View Project](https://github.com/yourusername/project1)
-
-### Project 2
-- Description: Brief description of the project
-- Tech Stack: Next.js, GraphQL, TanStack
-- [View Project](https://github.com/yourusername/project2)
-
-### Project 3
-- Description: Brief description of the project
-- Tech Stack: React Native, Redux, Express
-- [View Project](https://github.com/yourusername/project3)
+- **Master's in Computer Application** - [Lovely Professional University] _(In Progress)_
+- **Bachelor's Degree** - [DAV College, Amritsar] _(Completed)_
 
 ## 📫 How to Reach Me
 
@@ -65,4 +44,4 @@ I'm a passionate full stack developer with 2+ years of experience, currently pur
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [Lakshay Kapoor](https://github.com/kapoor08)
